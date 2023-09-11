@@ -9,4 +9,3 @@
 
 >>> type(-46)
 <class 'int'>
-CITIZEN CONFLICT
