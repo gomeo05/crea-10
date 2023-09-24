@@ -9,3 +9,6 @@
 
 >>> type(-46)
 <class 'int'>
+
+>>> type(-48)
+<class 'int'>
