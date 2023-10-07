@@ -10,5 +10,5 @@
 >>> type(-46)
 <class 'int'>
 
->>> type(-48)
+>>> type(-47)
 <class 'int'>
