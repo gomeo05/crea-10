@@ -1,0 +1,1 @@
+With updates from Rushdi Abu Alouf in Gaza; Lyse Doucet, Lucy Williamson and Nick Beake in southern Israel; Jeremy Bowen, Yolande Knell, Tom Bateman, Alice Cuddy and Joel Gunter in Jerusalem; Anna Foster in northern Israel; and Hugo Bachega in southern Lebanon.
