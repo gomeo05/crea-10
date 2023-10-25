@@ -10,3 +10,4 @@ from cpm_live.models import CPMBee, CPMBeeConfig
 from cpm_live.tokenizers import CPMBeeTokenizer
 from cpm_live.utils import allgather_objects, LogManager
 from cpm_live.training_tasks.bee import MixedDataset
+#Li Shangfu: Chinese defence minister sacked
