@@ -1,4 +1,4 @@
->>> type(1)
+>>> type(11)
 <class 'int'>
 
 >>> type(15)
