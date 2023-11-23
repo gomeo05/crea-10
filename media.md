@@ -8,3 +8,5 @@ The conflict between Israel and Gaza has been full of claims and counter claims 
 Those claims have been turbocharged by social media, which has been flooded with pictures and videos. There’s lots of misleading and false information, and conspiracy theories too.
 
 The BBC's disinformation and social media correspondent Marianna Spring shares her tips to help you tell what is real and what is fake.
+Henderson, 33, was criticised by some LGBTQ+ campaigners over his transfer to Saudi, where same-sex sexual activity is illegal, after he had previously publicly shown support for the LGBTQ+ community.
+
